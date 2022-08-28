@@ -1,6 +1,9 @@
 # dynyx-rings
 Rings System that gives you armor, health, stamina, or stress depending on the ring you use.
 
+| Join my discord server [here](https://discord.gg/A4gVRjnvaE) |
+| ------------------------------------------------------------ |
+
 ## Preview: https://streamable.com/it5fck
 
 ## How to Install
