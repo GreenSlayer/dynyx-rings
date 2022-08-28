@@ -4,7 +4,8 @@ Rings System that gives you armor, health, stamina, or stress depending on the r
 ## Preview: https://streamable.com/it5fck
 
 ## How to Install
-1. Go to qb-core/shared/items.lua and paste this
+1. Drag dynyx-ring into your resources folder then ensure dynyx-rings in your cfg file.
+2. Go to qb-core/shared/items.lua and paste this
 ```lua
 --Dynyx Rings
 ["gallery_aquamarine-ring"] 	= {["name"] = "gallery_aquamarine-ring", ["label"] = "Aquamarine Ring", ["weight"] = 0, 		["type"] = "item", 		["image"] = "gallery_aquamarine-ring.png",  ["unique"] = true, 		["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = ""},
@@ -16,7 +17,7 @@ Rings System that gives you armor, health, stamina, or stress depending on the r
 ["gallery_sapphire-ring"] 		= {["name"] = "gallery_sapphire-ring", 	 ["label"] = "Sapphire Ring",   ["weight"] = 0, 		["type"] = "item", 		["image"] = "gallery_sapphire-ring.png",    ["unique"] = true, 		["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = ""},
 ["gallery_tanzanite-ring"] 		= {["name"] = "gallery_tanzanite-ring",  ["label"] = "Tanzanite Ring",  ["weight"] = 0, 		["type"] = "item", 		["image"] = "gallery_tanzanite-ring.png", 	["unique"] = true, 		["useable"] = true, 	["shouldClose"] = true,   ["combinable"] = nil,   ["description"] = ""},
 ```
-2. Go to qb-inventory or lj-inventory / html / images and add in the images I put in that images folder.
+3. Go to qb-inventory or lj-inventory / html / images and add in the images I put in that images folder.
 
 # Configuration
 
